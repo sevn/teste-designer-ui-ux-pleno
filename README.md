@@ -38,7 +38,7 @@ Um grande portal de notícias e esportes chamado "Le Sept" está criando duas no
 
 A primeira tela lista as partidas com os placares, e ao clicar em uma partida, a tela Detalhes da Partida é aberta, contendo todas as informações do jogo como: Placar, elenco dos times, quem fez os gols, timeline dos lances, etc.
 
-Crie o visual dessas duas telas, tendo como referência que:
+Crie o visual (design UI) dessas duas telas, tendo como referência que:
 
 - É um site de notícias e esportes;
 - As duas telas precisam ter suas interfaces pensadas para Desktop e Mobile;
